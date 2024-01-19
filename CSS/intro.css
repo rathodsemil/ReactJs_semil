@@ -1,0 +1,101 @@
+/*
+h1{
+    color: blueviolet  !important;
+}
+*/
+/* ul{
+    background-color: pink;
+    border:2px solid gray;
+}
+ */
+
+/* Css Box-model */
+
+/* .box-1 {
+    height: 300px;
+    width: 300px;
+    background-color: purple;
+    padding: 20px;
+    border: 10px solid blue;
+    box-sizing: content-box;
+}
+
+.box-2 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(0, 128, 9);
+    padding: 20px;
+    border: 20px solid rgb(255, 102, 0);
+    box-sizing: border-box;
+} */
+
+
+/***************************************/
+
+
+/* CASCADE SPECIFICITY AND INHERITANCE */
+
+
+/* cascade */
+
+/* .div-1{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+} */
+
+/* sepecificity */
+
+#para{
+    background-color: rgb(38, 110, 158);
+} /*
+.para-1{
+    background-color: blueviolet;
+} 
+
+
+/* inheritance */
+
+/* .parent{
+    background-color: green;
+    height: 200px;
+}
+.spe-1{
+    background-color: red;
+    height: 100px;
+}
+.box{
+    background-color: yellow;
+    height: 50px;
+}
+
+.parent-1{
+    background-color: green;
+    height: 200px;
+    border:5px solid black;
+    margin-top: 10px;
+}
+
+
+.parent-1{
+    background-color: green;
+    height: 200px;
+    border:5px solid black;
+    margin-top: 10px;
+    background-color: blue;
+}
+
+.mainbox .box{
+    background-color: yellow;
+    height: 50px;
+    border:5px solid black;
+} */
+
+/* !important rule */
+.para-1 {
+    background-color: red !important;
+}
+
+.para-2 {
+    background-color: red;
+}
