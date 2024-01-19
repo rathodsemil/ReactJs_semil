@@ -1,0 +1,188 @@
+/* https://htmlcolorcodes.com/color-picker/ */
+
+
+body{
+    margin: 0;
+}
+
+/* css color */
+
+.rgb{
+    height: 200px;
+    width: 200px;
+    /* background-color: rgb(255 , 100 , 55); */
+    /* background-color: rgba(255 , 0 , 0 , 1); */
+    /* background-color: #000000; */
+    /* background-color: hsl(360deg ,   100% , 50%); */
+}
+
+
+
+
+/* css background properties */
+
+.background{
+     background-color: blue; 
+    /* background-image: url('../image/small.jpg'); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* background-position:right; */
+    /* background-attachment: fixed; */
+    /* background-clip: content-box; */
+    /* background-clip: content-box;
+    width: 300px;
+    height:300px;
+    padding:100px;
+    border:50px solid transparent; */
+}
+
+
+/* .background{
+    background-image: url('../image/small.jpg') , url('../image/smiley-businesswoman.avif');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-blend-mode:overlay;
+} */
+
+
+/* .linear-gradient-1{
+    height: 500px;
+    width:100%;
+    background: linear-gradient(to bottom, red, blue , yellow, brown);
+}  */
+
+/* .diagonal-linear-gradient {
+    height: 500px;
+    width:100%;
+    background: linear-gradient(to bottom right, red 30% , yellow 30%);
+} */
+
+/* .linear-gradient-rainbow {
+    height: 500px;
+    width:500px;
+    border-radius: 100%;
+    background: linear-gradient(to top, red, orange, yellow, green, blue, indigo, violet)
+} */
+
+/* .radial-gradient-simple {
+    height: 800px;
+    width:100%;
+    background: radial-gradient( red, orange, yellow, green, blue, indigo, violet);
+} */
+
+/* .radial-gradient {
+    height: 100vh;
+    width:100%;
+    background: radial-gradient(circle farthest-corner at bottom, red, blue);
+} */
+
+/* .bullseye {
+    height: 100vh;
+    width:100%;
+    background: repeating-radial-gradient(red, red 10%, white , white 20%);
+} */
+
+/* .warning {
+    height: 100vh;
+    width:100%;
+    background: repeating-linear-gradient(-90deg, yellow, yellow 10%, black 10%, black 20% );
+} */
+
+/* .conic{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    background-image: conic-gradient(red, rgb(0, 255, 30), rgb(128, 0, 102));
+}  */
+
+
+/* css border properties */
+
+/* css border types
+    solid
+    dotted
+    dashed
+    double
+    hidden
+    none
+    ridge
+    inset
+    outset
+    groove
+*/
+
+
+/* border radius */
+
+
+.border{
+     height: 300px;
+    width: 300px; 
+    /* border:10px groove red;
+    border-width: 10px;
+    border-style: solid;
+    border-color:green; */
+    /* border-top:10px solid red; */
+    /* border:5px solid blue; */
+    /* border-radius: 100%; */
+    /* border-radius: left-top right-top right-bottom left-bottom; */
+    /* border-radius:50px 80px 100px 120px;
+    border-radius: 50px 120px; */
+}
+
+
+/* css outline properties */
+
+/*
+outline:none;
+outline:width style color;
+*/
+
+
+
+
+
+
+/* css opacity */
+
+
+
+
+/* css button */
+
+/* button tag */
+
+/* div{
+    padding: 100px;
+}
+
+
+button , input , a{
+    background-color: gray;
+    text-decoration: none;
+    border:0;
+    padding: 10px 40px;
+    color:blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    border:1px solid blueviolet;
+}
+
+button:hover , input:hover{
+    background-color: blueviolet;
+    color:white;
+    transform: translateY(-10px);
+    transition: 1s;
+}
+span:hover a{
+    background-color: blueviolet;
+    color:white;
+}
+span a{
+    display: inline-block;
+    transition: 1s;
+}
+a:hover{
+    transform: translateY(-10px);
+} */

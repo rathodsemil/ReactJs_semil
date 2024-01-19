@@ -1,0 +1,19 @@
+ul{
+    background-color: pink;
+    border:2px solid gray;
+}
+
+ .div2 {
+			font-family: times-roman;
+			background-color: blue;
+			border-color: red;
+}
+
+.maindiv  .div3{
+	/* color: red; */
+	/* font-family: times-roman; */
+	background-color: purple;
+	/* border: 10px solid; */
+	/* border-color: green; */
+}
+	

@@ -1,0 +1,138 @@
+@import './le2.css'; 
+body{
+   margin: 0;
+   background-color: green;
+} 
+
+/* css import */
+
+
+
+/* css resetting properties value */
+p{
+   background-color: yellow;
+}
+/*.para-1{
+   background-color: pink;
+}
+
+.para .para-1{
+   background-color: black;
+}
+
+.box .para .para-1{
+   background-color: orange;
+} 
+
+.maindiv .box .para .para-1{
+   background-color: brown;
+} 
+
+.maindiv .box .para .para-1{
+   background-color: unset;
+} 
+
+.box .para .para-1{
+   background-color: unset;
+} 
+*/
+
+/* Universal selector */
+
+/* *{
+   border: 2px solid black;
+   background-color: red;
+   text-decoration: none;
+}
+
+.h-1{
+   border:0;
+}
+.p-1{
+   border:0;
+} */
+
+/* Simple Tag Selector*/
+
+
+
+/* Multipal Class Selector */
+
+
+/* .box{
+   height: 200px;
+   background-color: yellow;
+   width: 200px;
+} */
+/* .box-1{
+}
+.box-2{
+} */
+
+/*css id selector*/
+
+/* 
+#box{
+   height: 200px;
+   width: 200px;
+   border:5px double red;
+} */
+
+/* Examples Combinator selector */
+
+/* Descendent selector */
+/* 
+.maindiv .box{
+height: 200px;
+background-color: red;
+} */
+
+/* .box{
+   padding: 20px;
+   margin: 20px;
+}
+.maindiv{
+   background-color: green;
+} */
+
+
+/* child selector */
+
+/* .maindiv > .box > {
+} */
+
+
+
+/* adjuacent sibling selector*/
+
+
+/* div + p{
+   background-color: green;
+} */
+
+
+
+
+/* general sibling selector*/
+
+/* .box ~ p{
+   background-color: orange    ;
+}
+
+.box-1 ~ p{
+   background-color: blue;
+} */
+
+
+/* link selector */
+
+/* 
+   link
+   active
+   hover
+   visited
+*/
+
+/*a:link{
+   color:red;
+}*/

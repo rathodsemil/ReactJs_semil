@@ -1,0 +1,53 @@
+body
+
+{
+  
+  background-color: aqua;
+}
+main
+{
+  border: 2px coral;
+  background-color: blue;
+  text-decoration: underline;
+}
+#main section h2 
+{
+  text-decoration: none;
+}
+
+p{
+  background-color: blueviolet;
+}
+.container .cont section h2 
+{
+  background-color: brown;
+ /* text-decoration:overline;*/
+}
+.std 
+{
+  text-decoration: none;
+}
+.main1 h2{
+  text-decoration: none;
+}
+.container section p
+{
+  visibility: hidden  ;
+  background-color: red;
+}
+.container .V
+{
+  background-color: RED;
+}
+.container .R
+{
+  background-color: red;
+}
+main{
+     text-decoration: none ;
+}
+
+p{
+
+    text-decoration: underline;
+}
